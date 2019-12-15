@@ -1,0 +1,3 @@
+/home/shira/Desktop/concurrency-waitqueue-ShiraZaltsman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/shira/Desktop/concurrency-waitqueue-ShiraZaltsman/cmake-build-debug/CMakeFiles/concurrency_waitqueue_ShiraZaltsman.dir
+/home/shira/Desktop/concurrency-waitqueue-ShiraZaltsman/cmake-build-debug/CMakeFiles/edit_cache.dir
